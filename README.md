@@ -1,7 +1,7 @@
 # Análise Exploratória de Acidentes 
 
 <p align="center">
-  <img alt="PRF" width="90%" src="images/prf-background.png">
+  <img alt="PRF" width="40%" src="images/prf1.png">
 </p>
 
 ## Objetivo do Estudo
